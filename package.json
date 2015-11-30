@@ -2,7 +2,7 @@
   "name": "@micro-js/zip-obj",
   "description": "Create an object from a list of keys and values.",
   "repository": "git://github.com/micro-js/zip-obj.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
