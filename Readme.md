@@ -17,15 +17,17 @@ Create an object from a list of keys and values.
 ```js
 var zipObj = require('@micro-js/zip-obj')
 
+zipObj([1, 2], [1, 2]) // => {1: 1, 2: 2}
 ```
 
 ## API
 
-### zipObj(arg)
+### zipObj(keys, values)
 
-- `arg` -
+- `keys` - list of keys for new object
+- `values` - list of values for new object
 
-**Returns:**
+**Returns:** object with `keys` and `values`
 
 ## License
 
