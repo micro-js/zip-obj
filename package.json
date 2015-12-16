@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/zip-obj",
+  "name": "@f/zip-obj",
   "description": "Create an object from a list of keys and values.",
   "repository": "git://github.com/micro-js/zip-obj.git",
   "version": "1.0.0",

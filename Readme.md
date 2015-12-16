@@ -10,12 +10,12 @@ Create an object from a list of keys and values.
 
 ## Installation
 
-    $ npm install @micro-js/zip-obj
+    $ npm install @f/zip-obj
 
 ## Usage
 
 ```js
-var zipObj = require('@micro-js/zip-obj')
+var zipObj = require('@f/zip-obj')
 
 zipObj([1, 2], [1, 2]) // => {1: 1, 2: 2}
 ```
@@ -39,5 +39,5 @@ MIT
 [git-url]: https://github.com/micro-js/zip-obj
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/zip-obj.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/zip-obj
+[npm-image]: https://img.shields.io/npm/v/@f/zip-obj.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/zip-obj
